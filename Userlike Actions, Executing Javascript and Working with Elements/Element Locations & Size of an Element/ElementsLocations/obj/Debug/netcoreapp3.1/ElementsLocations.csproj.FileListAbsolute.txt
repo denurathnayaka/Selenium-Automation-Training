@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\bin\Debug\netcoreapp3.1\ElementsLocations.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\bin\Debug\netcoreapp3.1\ElementsLocations.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\bin\Debug\netcoreapp3.1\ElementsLocations.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\bin\Debug\netcoreapp3.1\ElementsLocations.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\bin\Debug\netcoreapp3.1\ElementsLocations.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\bin\Debug\netcoreapp3.1\ElementsLocations.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\obj\Debug\netcoreapp3.1\ElementsLocations.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\obj\Debug\netcoreapp3.1\ElementsLocations.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\obj\Debug\netcoreapp3.1\ElementsLocations.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\obj\Debug\netcoreapp3.1\ElementsLocations.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\obj\Debug\netcoreapp3.1\ElementsLocations.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\obj\Debug\netcoreapp3.1\ElementsLocations.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\obj\Debug\netcoreapp3.1\ElementsLocations.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementLocations\ElementsLocations\ElementsLocations\obj\Debug\netcoreapp3.1\ElementsLocations.genruntimeconfig.cache

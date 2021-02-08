@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\bin\Debug\netcoreapp3.1\SeleniumScreenshot.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\bin\Debug\netcoreapp3.1\SeleniumScreenshot.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\bin\Debug\netcoreapp3.1\SeleniumScreenshot.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\bin\Debug\netcoreapp3.1\SeleniumScreenshot.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\bin\Debug\netcoreapp3.1\SeleniumScreenshot.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\bin\Debug\netcoreapp3.1\SeleniumScreenshot.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\obj\Debug\netcoreapp3.1\SeleniumScreenshot.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\obj\Debug\netcoreapp3.1\SeleniumScreenshot.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\obj\Debug\netcoreapp3.1\SeleniumScreenshot.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\obj\Debug\netcoreapp3.1\SeleniumScreenshot.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\obj\Debug\netcoreapp3.1\SeleniumScreenshot.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\obj\Debug\netcoreapp3.1\SeleniumScreenshot.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\obj\Debug\netcoreapp3.1\SeleniumScreenshot.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\SeleniumScreenshot\SeleniumScreenshot\SeleniumScreenshot\obj\Debug\netcoreapp3.1\SeleniumScreenshot.genruntimeconfig.cache

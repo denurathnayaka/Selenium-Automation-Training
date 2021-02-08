@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\bin\Debug\netcoreapp3.1\ClassName.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\bin\Debug\netcoreapp3.1\ClassName.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\bin\Debug\netcoreapp3.1\ClassName.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\bin\Debug\netcoreapp3.1\ClassName.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\bin\Debug\netcoreapp3.1\ClassName.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\bin\Debug\netcoreapp3.1\ClassName.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\obj\Debug\netcoreapp3.1\ClassName.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\obj\Debug\netcoreapp3.1\ClassName.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\obj\Debug\netcoreapp3.1\ClassName.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\obj\Debug\netcoreapp3.1\ClassName.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\obj\Debug\netcoreapp3.1\ClassName.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\obj\Debug\netcoreapp3.1\ClassName.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\obj\Debug\netcoreapp3.1\ClassName.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\ClassName\ClassName\obj\Debug\netcoreapp3.1\ClassName.genruntimeconfig.cache

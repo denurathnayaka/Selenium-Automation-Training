@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\bin\Debug\netcoreapp3.1\SetupPhantomJSProject.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\bin\Debug\netcoreapp3.1\SetupPhantomJSProject.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\bin\Debug\netcoreapp3.1\SetupPhantomJSProject.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\bin\Debug\netcoreapp3.1\SetupPhantomJSProject.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\bin\Debug\netcoreapp3.1\SetupPhantomJSProject.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\bin\Debug\netcoreapp3.1\SetupPhantomJSProject.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\obj\Debug\netcoreapp3.1\SetupPhantomJSProject.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\obj\Debug\netcoreapp3.1\SetupPhantomJSProject.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\obj\Debug\netcoreapp3.1\SetupPhantomJSProject.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\obj\Debug\netcoreapp3.1\SetupPhantomJSProject.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\obj\Debug\netcoreapp3.1\SetupPhantomJSProject.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\obj\Debug\netcoreapp3.1\SetupPhantomJSProject.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\obj\Debug\netcoreapp3.1\SetupPhantomJSProject.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\SetupPhantomJSProject\SetupPhantomJSProject\obj\Debug\netcoreapp3.1\SetupPhantomJSProject.genruntimeconfig.cache

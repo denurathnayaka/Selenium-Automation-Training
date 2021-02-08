@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\bin\Debug\netcoreapp3.1\CSS_XPath.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\bin\Debug\netcoreapp3.1\CSS_XPath.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\bin\Debug\netcoreapp3.1\CSS_XPath.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\bin\Debug\netcoreapp3.1\CSS_XPath.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\bin\Debug\netcoreapp3.1\CSS_XPath.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\bin\Debug\netcoreapp3.1\CSS_XPath.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\obj\Debug\netcoreapp3.1\CSS_XPath.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\obj\Debug\netcoreapp3.1\CSS_XPath.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\obj\Debug\netcoreapp3.1\CSS_XPath.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\obj\Debug\netcoreapp3.1\CSS_XPath.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\obj\Debug\netcoreapp3.1\CSS_XPath.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\obj\Debug\netcoreapp3.1\CSS_XPath.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\obj\Debug\netcoreapp3.1\CSS_XPath.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\ElementSelectors\CSS_XPath\CSS_XPath\obj\Debug\netcoreapp3.1\CSS_XPath.genruntimeconfig.cache

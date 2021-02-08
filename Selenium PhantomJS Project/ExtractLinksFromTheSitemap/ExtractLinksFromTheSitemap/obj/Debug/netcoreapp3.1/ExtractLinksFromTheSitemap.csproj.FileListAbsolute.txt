@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\obj\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\obj\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\obj\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\obj\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\bin\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\bin\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\bin\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\bin\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\bin\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\bin\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\obj\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\obj\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\obj\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractLinksFromTheSitemap\ExtractLinksFromTheSitemap\obj\Debug\netcoreapp3.1\ExtractLinksFromTheSitemap.genruntimeconfig.cache

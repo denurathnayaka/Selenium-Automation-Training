@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\bin\Debug\netcoreapp3.1\ID.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\bin\Debug\netcoreapp3.1\ID.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\bin\Debug\netcoreapp3.1\ID.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\bin\Debug\netcoreapp3.1\ID.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\bin\Debug\netcoreapp3.1\ID.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\bin\Debug\netcoreapp3.1\ID.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\obj\Debug\netcoreapp3.1\ID.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\obj\Debug\netcoreapp3.1\ID.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\obj\Debug\netcoreapp3.1\ID.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\obj\Debug\netcoreapp3.1\ID.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\obj\Debug\netcoreapp3.1\ID.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\obj\Debug\netcoreapp3.1\ID.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\obj\Debug\netcoreapp3.1\ID.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\elementSelectors\ID\ID\obj\Debug\netcoreapp3.1\ID.genruntimeconfig.cache

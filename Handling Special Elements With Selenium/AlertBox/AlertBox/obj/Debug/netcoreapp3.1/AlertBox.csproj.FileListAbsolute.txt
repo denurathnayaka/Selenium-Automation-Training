@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\bin\Debug\netcoreapp3.1\AlertBox.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\bin\Debug\netcoreapp3.1\AlertBox.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\bin\Debug\netcoreapp3.1\AlertBox.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\bin\Debug\netcoreapp3.1\AlertBox.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\bin\Debug\netcoreapp3.1\AlertBox.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\bin\Debug\netcoreapp3.1\AlertBox.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\obj\Debug\netcoreapp3.1\AlertBox.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\obj\Debug\netcoreapp3.1\AlertBox.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\obj\Debug\netcoreapp3.1\AlertBox.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\obj\Debug\netcoreapp3.1\AlertBox.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\obj\Debug\netcoreapp3.1\AlertBox.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\obj\Debug\netcoreapp3.1\AlertBox.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\obj\Debug\netcoreapp3.1\AlertBox.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\AlertBox\AlertBox\obj\Debug\netcoreapp3.1\AlertBox.genruntimeconfig.cache

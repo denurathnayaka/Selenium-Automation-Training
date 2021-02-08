@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\bin\Debug\netcoreapp3.1\TextInput.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\bin\Debug\netcoreapp3.1\TextInput.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\bin\Debug\netcoreapp3.1\TextInput.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\bin\Debug\netcoreapp3.1\TextInput.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\bin\Debug\netcoreapp3.1\TextInput.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\bin\Debug\netcoreapp3.1\TextInput.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\obj\Debug\netcoreapp3.1\TextInput.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\obj\Debug\netcoreapp3.1\TextInput.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\obj\Debug\netcoreapp3.1\TextInput.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\obj\Debug\netcoreapp3.1\TextInput.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\obj\Debug\netcoreapp3.1\TextInput.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\obj\Debug\netcoreapp3.1\TextInput.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\obj\Debug\netcoreapp3.1\TextInput.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\HandlingSpecialElementsWithSelenium\TextInput\TextInput\obj\Debug\netcoreapp3.1\TextInput.genruntimeconfig.cache

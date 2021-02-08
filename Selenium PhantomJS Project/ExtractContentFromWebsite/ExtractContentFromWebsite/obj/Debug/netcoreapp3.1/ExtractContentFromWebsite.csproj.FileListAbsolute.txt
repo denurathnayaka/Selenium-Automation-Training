@@ -1,0 +1,4 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractContentFromWebsite\ExtractContentFromWebsite\obj\Debug\netcoreapp3.1\ExtractContentFromWebsite.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractContentFromWebsite\ExtractContentFromWebsite\obj\Debug\netcoreapp3.1\ExtractContentFromWebsite.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractContentFromWebsite\ExtractContentFromWebsite\obj\Debug\netcoreapp3.1\ExtractContentFromWebsite.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\PhantomProject\ExtractContentFromWebsite\ExtractContentFromWebsite\obj\Debug\netcoreapp3.1\ExtractContentFromWebsite.csproj.CoreCompileInputs.cache

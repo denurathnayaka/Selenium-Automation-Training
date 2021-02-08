@@ -1,0 +1,17 @@
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\netcoreapp3.1\SetupEnvironment.exe
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\netcoreapp3.1\SetupEnvironment.deps.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\netcoreapp3.1\SetupEnvironment.runtimeconfig.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\netcoreapp3.1\SetupEnvironment.runtimeconfig.dev.json
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\netcoreapp3.1\SetupEnvironment.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\netcoreapp3.1\SetupEnvironment.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\netcoreapp3.1\SetupEnvironment.csprojAssemblyReference.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\netcoreapp3.1\SetupEnvironment.AssemblyInfoInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\netcoreapp3.1\SetupEnvironment.AssemblyInfo.cs
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\netcoreapp3.1\SetupEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\netcoreapp3.1\SetupEnvironment.csproj.CopyComplete
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\netcoreapp3.1\SetupEnvironment.dll
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\netcoreapp3.1\SetupEnvironment.pdb
+C:\Users\ccc\Desktop\SeleniumWebDriver\SetupingYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\netcoreapp3.1\SetupEnvironment.genruntimeconfig.cache
